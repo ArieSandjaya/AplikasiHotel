@@ -2,7 +2,7 @@
 <html>
   <?php include('module/header.php'); ?>
   
-  <body class="skin-blue sidebar-mini">
+  <body class="hold-transition skin-blue sidebar-mini">
     <!-- Site wrapper -->
     <div class="wrapper">
 

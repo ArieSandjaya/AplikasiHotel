@@ -15,7 +15,7 @@
           <!-- sidebar menu: : style can be found in sidebar.less -->
           <ul class="sidebar-menu tree" data-widget="tree">
             <li class="header">MAIN NAVIGATION</li>
-            <li>
+            <li class="treeview">
               <a href="index.php">
                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
               </a>
@@ -27,9 +27,9 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="?module=transaksi/checkin"><i class="fa fa-circle-o"></i> Check In</a></li>
-                <li><a href="?module=transaksi/checkout"><i class="fa fa-circle-o"></i> Check Out</a></li>
-                <li><a href="?module=transaksi/checkin-list"><i class="fa fa-circle-o"></i> Tamu In-House</a></li>
+                <li class="li-menu"><a href="?module=transaksi/checkin"><i class="fa fa-circle-o"></i> Check In</a></li>
+                <li class="li-menu"><a href="?module=transaksi/checkout"><i class="fa fa-circle-o"></i> Check Out</a></li>
+                <li class="li-menu"><a href="?module=transaksi/checkin-list"><i class="fa fa-circle-o"></i> Tamu In-House</a></li>
               </ul>
             </li>
             <li class="treeview">
